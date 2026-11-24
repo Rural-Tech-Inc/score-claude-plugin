@@ -1,0 +1,19 @@
+{
+  "name": "score",
+  "displayName": "S.C.O.R.E.",
+  "version": "0.1.0",
+  "description": "Run your S.C.O.R.E. store from Claude: sign in with your S.C.O.R.E. account, see your stores, look up sales, stock and products, and create a store.",
+  "author": { "name": "RURAL Technologies", "email": "score@ruraltechnologies.co", "url": "https://ruraltechnologies.co" },
+  "homepage": "https://score.ruraltechnologies.co",
+  "repository": "https://github.com/Rural-Tech-Inc/score-claude-plugin",
+  "license": "MIT",
+  "icon": "./assets/logo.png",
+  "keywords": ["pos", "point of sale", "inventory", "retail", "restaurant", "sales"],
+  "documentationUrl": "https://github.com/Rural-Tech-Inc/score-claude-plugin#readme",
+  "supportUrl": "mailto:score@ruraltechnologies.co",
+  "privacyPolicyUrl": "https://score.ruraltechnologies.co/privacy",
+  "termsOfServiceUrl": "https://score.ruraltechnologies.co/terms",
+  "mcpServers": {
+    "score": { "type": "http", "url": "https://api-prod.ruraltechnologies.co/mcp" }
+  }
+}

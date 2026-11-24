@@ -1,0 +1,13 @@
+{
+  "name": "rural",
+  "owner": { "name": "RURAL Technologies", "email": "score@ruraltechnologies.co" },
+  "metadata": { "description": "Plugins by RURAL Technologies." },
+  "plugins": [
+    {
+      "name": "score",
+      "source": "./plugins/score",
+      "description": "Run your S.C.O.R.E. store from Claude: your stores, sales, stock and products, and new stores.",
+      "category": "productivity"
+    }
+  ]
+}
