@@ -14,8 +14,11 @@ Claude works as you, with your role and permissions in each store. It can never 
 - "What did I sell today in the bakery?"
 - "Which products are low on stock?"
 - "Create a store called Café Sol in Ecuador, a restaurant."
+- "Add a product: pan de yuca, $1.50, cost $0.60, 40 in stock."
+- "Sell 2 cafés for cash."
+- "We received 12 quesos from Distribuidora Andes."
 
-Claude can read anything you can read in the app and create stores (your plan's store limit applies). Changing products and recording sales come in a later version. Deleting a store, your subscription and card payments stay in the S.C.O.R.E. app.
+Claude can read anything you can read in the app, add and edit products, adjust stock, record deliveries and sales, add customers and suppliers, record expenses and create stores. It shows each change and waits for your yes, and a sale shows its exact total first. Deleting a store or a product, returns, your subscription and charging a card stay in the S.C.O.R.E. app.
 
 ## Ending Claude's access
 
